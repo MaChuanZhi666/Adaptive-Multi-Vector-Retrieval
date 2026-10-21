@@ -1,5 +1,7 @@
 # Research Progress
 
+For the full history and curated archive of prior experiments, see [Research Archive](RESEARCH_ARCHIVE.md).
+
 - **Status snapshot:** 2026-10-21
 - **Project:** Query-adaptive computation for PLAID/ColBERT-style multi-vector retrieval, with RAG as the motivating application.
 
